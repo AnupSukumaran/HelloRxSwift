@@ -1,6 +1,6 @@
 import UIKit
 import RxSwift
-
+import RxRelay
 let disposeBag = DisposeBag()
 
 let variable =  Variable("inital value")
