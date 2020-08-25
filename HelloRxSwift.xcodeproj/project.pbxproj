@@ -52,8 +52,8 @@
 		184C2ACD24F0CEA40022511B /* HelloRxSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloRxSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		184C2AD124F0CEA40022511B /* HelloRxSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloRxSwiftUITests.swift; sourceTree = "<group>"; };
 		184C2AD324F0CEA40022511B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		184C2ADF24F0D04C0022511B /* RXSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = RXSwiftPlayground.playground; path = "../../../Library/Autosave Information/RXSwiftPlayground.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		18BF9D02EB3776729C1A82A5 /* Pods-HelloRxSwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloRxSwiftTests.release.xcconfig"; path = "Target Support Files/Pods-HelloRxSwiftTests/Pods-HelloRxSwiftTests.release.xcconfig"; sourceTree = "<group>"; };
+		18C1E9C024F57086008562F6 /* RXSwiftPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RXSwiftPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		284A6347EC67B3756D67657F /* Pods-HelloRxSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloRxSwift.debug.xcconfig"; path = "Target Support Files/Pods-HelloRxSwift/Pods-HelloRxSwift.debug.xcconfig"; sourceTree = "<group>"; };
 		5642A677912E548E892F1350 /* Pods_HelloRxSwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloRxSwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C64856FB6C8F745F4BC36C2 /* Pods_HelloRxSwift_HelloRxSwiftUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloRxSwift_HelloRxSwiftUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -117,7 +117,7 @@
 		184C2AAE24F0CEA00022511B /* HelloRxSwift */ = {
 			isa = PBXGroup;
 			children = (
-				184C2ADF24F0D04C0022511B /* RXSwiftPlayground.playground */,
+				18C1E9C024F57086008562F6 /* RXSwiftPlayground.playground */,
 				184C2AAF24F0CEA10022511B /* AppDelegate.swift */,
 				184C2AB124F0CEA10022511B /* SceneDelegate.swift */,
 				184C2AB324F0CEA10022511B /* ViewController.swift */,
